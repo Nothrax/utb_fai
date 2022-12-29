@@ -1,0 +1,15 @@
+[submodule "AK8MI/local_minima_search"]
+	path = AK8MI/local_minima_search
+	url = https://github.com/Nothrax/local_minima_search
+[submodule "AK8PO/iot-plot"]
+	path = AK8PO/iot-plot
+	url = https://github.com/Nothrax/iot-plot.git
+[submodule "AK8PP/open_mp"]
+	path = AK8PP/open_mp
+	url = https://github.com/Nothrax/open_mp
+[submodule "AK8PP/proj2/qt-multithread"]
+	path = AK8PP/proj2/qt-multithread
+	url = https://github.com/Nothrax/qt-multithread.git
+[submodule "AK8PP/proj1/pong"]
+	path = AK8PP/proj1/pong
+	url = https://github.com/Nothrax/pong
